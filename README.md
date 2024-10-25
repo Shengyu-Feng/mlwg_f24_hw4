@@ -1,6 +1,6 @@
 #### This is an identical copy of [Aman's design of this homework](https://github.com/madaan/gcn_assignment)
 
-# GCN Assignment for 11441/11741 (Spring 2024)
+# GCN Assignment for 11441/11741 (Fall 2024)
 
 ## Getting started
 
@@ -81,7 +81,7 @@ bash scripts/run_graph_classification.sh data/graph_classification/graph_mutag_w
 
 ### Getting feedback
 
-- You can create a **private** fork of this repository on GitHub and add the TAs as collaborators (usernames: Edward-Sun). This might help you in asking questions without having to copy-paste your code on piazza (you can just reference Github code/copy permalink). You can use [these instructions](https://docs.github.com/en/repositories/creating-and-managing-repositories/duplicating-a-repository) or just copy-paste the code into a new repository.
+- You can create a **private** fork of this repository on GitHub and add the TAs as collaborators (usernames: Shengyu-Feng, RifleZhang). This might help you in asking questions without having to copy-paste your code on piazza (you can just reference Github code/copy permalink). You can use [these instructions](https://docs.github.com/en/repositories/creating-and-managing-repositories/duplicating-a-repository) or just copy-paste the code into a new repository.
 
 ### Posting your solutions online
 
